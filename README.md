@@ -14,7 +14,7 @@
     - https://stackoverflow.com/a/17111549/12291425
 - https://searchfox.org/mozilla-central/source/toolkit/crashreporter/tools/symbolstore.py
 
-`random.py`:
+`random.py, audit.py`:
 
 - https://docs.python.org/3/library/ctypes.html#calling-functions
 - https://docs.python.org/3/library/sys.html#auditing
