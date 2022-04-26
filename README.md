@@ -1,6 +1,6 @@
 # walking-around
  
-Paths:
+`paths.py`:
 
 - https://www.forrestthewoods.com/blog/embedding-source-code-in-pdbs-with-rust/
 - https://randomascii.wordpress.com/2011/11/11/source-indexing-is-underused-awesomeness/
@@ -13,3 +13,10 @@ Paths:
 - https://stackoverflow.com/questions/5278997/setting-up-a-public-or-private-symbol-server-over-http
     - https://stackoverflow.com/a/17111549/12291425
 - https://searchfox.org/mozilla-central/source/toolkit/crashreporter/tools/symbolstore.py
+
+`random.py`:
+
+- https://docs.python.org/3/library/ctypes.html#calling-functions
+- https://docs.python.org/3/library/sys.html#auditing
+- https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html
+- https://peps.python.org/pep-0578/#:~:text=use%20%2D%20for%20example%2C%20a-,random,-.py%20file%20that
