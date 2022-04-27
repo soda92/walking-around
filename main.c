@@ -1,12 +1,11 @@
-#define uint unsigned int
 #include <stdio.h>
+#include <stdbool.h>
 int main()
 {
-    long t = 0x10;
-    uint *pr = (uint *)&t;
-    pr[0] = 1;
-    pr[1] = 0;
-    pr[2] = 1;
-    pr[3] = 0;
-    printf("%ld\n", t);
+    int t = 0xaabbccdd;
+    bool * p = (bool *)&t;
+    printf("%x\n", *p);
+    printf("%x\n", *(p+1));
+    printf("%x\n", *(p+2));
+    printf("%x\n", *(p+3));
 }
